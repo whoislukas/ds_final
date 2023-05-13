@@ -13,7 +13,7 @@ Client Sentiment Analysis using Pre-trained ML Models is a project aimed at anal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/client-sentiment-analysis.git
+   git clone https://github.com/whoislukas/ds_final.git
    ```
 
 2. Navigate to the project directory:
