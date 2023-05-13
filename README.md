@@ -1,4 +1,4 @@
-# ds_final# Client Sentiment Analysis using Pre-trained ML Models
+# Client Sentiment Analysis using Pre-trained ML Models
 
 Client Sentiment Analysis using Pre-trained ML Models is a project aimed at analyzing and classifying the sentiment of client feedback using pre-trained machine learning models. The project leverages state-of-the-art natural language processing techniques to determine whether the sentiment expressed in the client's message is positive, negative, or neutral.
 
