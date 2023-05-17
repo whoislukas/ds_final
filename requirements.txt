@@ -113,3 +113,4 @@ wasabi==1.1.1
 wcwidth==0.2.6
 Werkzeug==2.3.3
 wrapt==1.14.1
+wordcloud==1.9.1.1
