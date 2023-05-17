@@ -5,8 +5,8 @@ Client Sentiment Analysis using Pre-trained ML Models is a project aimed at anal
 ## Features
 
 - Utilizes pre-trained ML models for sentiment analysis
-- Supports analysis of client feedback in multiple languages
-- Provides accurate sentiment classification for different types of client messages
+- Supports analysis of client feedback in multiple languages (in progress)
+- Provides sentiment classification for different types of client messages (in progress)
 
 ## Installation
 
@@ -47,7 +47,10 @@ Client Sentiment Analysis using Pre-trained ML Models is a project aimed at anal
    ```bash
    pip install -r requirements.txt
    ```
-
+## Files this repository includes:
+   - dataset folder (sample datasets)
+   - ds_final.ipynb notebook 
+   - requirements.txt
 ## Usage
 
 1. Open ds_final.ipynb
