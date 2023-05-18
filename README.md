@@ -61,3 +61,7 @@ Due to miscalculation of project scope and cleaningness of initial data, project
 1. Open ds_final.ipynb
 2. Change placeholder generated_dataset.csv with original dataset.
 3. Run the notebook and explore!
+
+## Aknowlegment
+
+Special thanks to CodeAcademy community and lecturers Domantas and Dainius for their time and effort during the course!
